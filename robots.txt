@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brainrot3334.github.io/funtime-proxy/sitemap.xml
